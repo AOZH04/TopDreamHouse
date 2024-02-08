@@ -293,6 +293,11 @@ body::after {
   transition: all 0.3s ease 0s;
 }
 
+.popup__content .form_contactus .form_contactus_title {
+  background-color: transparent;
+  color: #1b2062;
+}
+
 .spollers {
   display: grid;
 }
